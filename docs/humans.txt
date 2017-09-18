@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Evangelia Dendramis -- Web Master -- @edendramis
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Gulp, LESS, Freemarker, FMPP
