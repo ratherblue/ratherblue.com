@@ -1,0 +1,174 @@
+{
+  "name": "Evangelia Dendramis",
+  "contact": {
+    "email": "edendramis@gmail.com",
+    "website": "http://edendramis.com",
+    "github": "http://github.com/edendramis"
+  },
+  "summary": "Design-centric, full-stack software engineer with over a decade of industry experience and extensive knowledge of CSS, JavaScript, and mobile web development. Passionate about SEO, UX, responsive design, and test-driven development as well as accessibility, performance, semantic markup, and the open source community.",
+  "skills": {
+    "frameworks": ["NodeJS", "NPM", "CakePHP", "Express JS", "Handlebars", "Bootstrap", "jQuery", "Gulp", "Mocha"],
+    "languages": ["CSS", "LESS", "JavaScript", "C#", "FreeMarker", "PHP", "XSLT", "JSP", "HTML5", "ActionScript 3", "SQL"],
+    "applications": ["Adobe CS6", "Sublime Text", "IntelliJ", "Eclipse", "Git", "SVN", "Fisheye", "Stash", "Jira", "ImageMagick"]
+  },
+  "experience": [
+    {
+      "title": "Senior Frontend Web Developer",
+      "company": {
+        "name": "REI",
+        "website": "http://www.rei.com"
+      },
+      "location": {
+        "city": "Kent",
+        "state": "WA"
+      },
+      "dates": ["01/2014"],
+      "responsibilities": [
+        "Currently leading the front-end team’s responsive web development strategy",
+        "Maintained fully-customized, responsive interfaces compiled with LESS",
+        "Created and maintained interactive style guide to facilitate style sharing across pages",
+        "Help mentor coworkers in best practices and advanced CSS techniques",
+        "Use NPM and NodeJS for dependency management and unit testing",
+        "Work closely with QA engineers to facilitate Selenium and performance tests"
+      ]
+    }, {
+      "title": "Freelance Web Developer",
+      "company": {
+        "name": "Self-employed"
+      },
+      "location": {
+        "city": "San Diego",
+        "state": "CA"
+      },
+      "dates": ["04/2013", "01/2014"],
+      "responsibilities": [
+        "Met with clients to discuss business needs",
+        "Developed and maintained responsive design frameworks to meet client requirements"
+      ]
+    }, {
+      "title": "Web Frontend Engineer",
+      "company": {
+        "name": "Blizzard Entertainment",
+        "website": "http://blizzard.com"
+      },
+      "location": {
+        "city": "Irvine",
+        "state": "CA"
+      },
+      "dates": ["09/2008", "03/2013"],
+      "responsibilities": [
+        "Architected and maintained front-end frameworks for large, scalable websites including diablo3.com, starcraft2.com, blizzcon.com, and worldofwarcraft.com in FreeMarker and XSLT",
+        "Worked closely with editors to externalize strings for localization across twelve different languages",
+        "Created many internal tools using C# and Windows Batch to assist with day-to-day needs, like scripts to batch resize, crop, and optimize thousands of images",
+        "Mentored new employees on the various frameworks used across applications",
+        "Converted highly stylized PSDs into flexible layouts with cross-browser support down to Internet Explorer 6",
+        "Acted as a resource across game teams to provide various web development help",
+        "Implemented Schema.org microdata for SEO improvements",
+        "Developed custom, skinnable video player to use across Blizzard’s website using ActionScript",
+        "Implemented various Facebook, Google+, and Twitter APIs for social networking tie-ins"
+      ]
+    }, {
+      "title": "Web Developer",
+      "company": {
+        "name": "Spectrum Global Funds Administration"
+      },
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "dates": ["11/2007", "08/2008"],
+      "responsibilities": [
+        "Developed custom financial applications using Flex 3 and Actionscript 3",
+        "Created dynamic site layouts using CSS, JavaScript, and ASP.NET",
+        "Deployed and customized SalesForce managed-packages for several clients",
+        "Trained coworkers on Flex 3 technologies and SalesForce managed-package customization"
+      ]
+    }, {
+      "title": "Web Developer",
+      "company": {
+        "name": "Tantus Networks"
+      },
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "dates": ["01/2007", "11/2007"],
+      "responsibilities": [
+        "Designed and developed several websites for clients using Flash, PHP, MySQL, CSS and JavaScript",
+        "Wrote several tools for the sales team to generate pricing sheets and invoices for clients",
+        "Improved user experience using AJAX technologies"
+      ]
+    }, {
+      "title": "Web Developer",
+      "company": {
+        "name": "Traders Media"
+      },
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "dates": ["07/2006", "01/2007"],
+      "responsibilities": [
+        "Maintained several high-traffic websites including uschartco.com and insidefutures.com",
+        "Developed and improved financial applications using PHP, Perl, and JavaScript",
+        "Created templates with Smarty PHP to help separate code from design"
+      ]
+    }, {
+      "title": "Web Developer",
+      "company": {
+        "name": "Midwest New Media"
+      },
+      "location": {
+        "city": "Cincinnati",
+        "state": "OH"
+      },
+      "dates": ["12/2005", "07/2006"],
+      "responsibilities": [
+        "Implemented custom content management systems on client websites",
+        "Converted PSDs to HTML pages",
+        "Created Flash animations for the award-winning website workplacefairness.org"
+      ]
+    }, {
+      "title": "Student Web Developer",
+      "company": {
+        "name": "University of Illinois at Urbana-Champaign"
+      },
+      "location": {
+        "city": "Urbana",
+        "state": "IL"
+      },
+      "dates": ["02/2003", "04/2005"],
+      "responsibilities": [
+        "Developed secure backend applications for faculty using ColdFusion MX, PHP, MySQL and PostgreSQL databases",
+        "Designed new pages and maintained the Crop Sciences department website",
+        "Provided faculty with tech support and training in computer technologies",
+        "Designed and maintained several websites for the Engineering Outreach Program",
+        "Taught an early-morning, basic HTML class for high school students interning at the university"
+      ]
+    }
+  ],
+  "openSource": {
+    "bugReports": [
+      "https://code.google.com/p/chromium/issues/detail?id=141305"
+    ],
+    "bugFixes": [
+      "https://github.com/Metrime/gulp-autoprefixer/pull/24",
+      "https://github.com/swfobject/swfobject/pull/8"
+    ],
+    "contributions": [
+      "https://github.com/reidev/gulp-html-include/pull/2",
+      "https://github.com/freemarker/docgen/pull/2"
+    ],
+    "authored": [
+      "https://github.com/reidev/string-externalization",
+      "https://github.com/edendramis/freemarker-debugger",
+      "https://github.com/bosshobbes/css-localization-example"
+    ],
+    "personal": [
+      "https://github.com/edendramis/edendramis.com",
+      "https://github.com/cincyasce/orvss.com",
+      "https://github.com/edendramis/joeshely.com",
+      "https://github.com/edendramis/freemarker-example"
+    ]
+  }
+}
